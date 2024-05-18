@@ -1,0 +1,21 @@
+ 
+└── VideoStreamingWebsite
+    ├── Backend
+    │   └── Core
+    │       ├── Auth.php
+    │       ├── Database.php
+    │       ├── FileDelivery.php
+    │       ├── Files.php
+    │       ├── Request.php
+    │       └── Router.php
+    ├── UIRaw
+    │       ├── Login.html
+    │       ├── Signup.html
+    │       ├── Upload.html
+    │       ├── UserProfile.html
+    │       └── VideoPlayer.html
+    │       └── Comment.html
+    │       └── Editor.html
+    └── UITemplated
+           └── Contains a templates (using template engines) for dynamic rendering
+

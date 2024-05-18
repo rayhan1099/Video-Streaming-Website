@@ -1,0 +1,6 @@
+{
+  "require": {
+    "miladrahimi/php-jwt": "2.*",
+    "ext-pdo": "*"
+  }
+}
